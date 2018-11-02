@@ -1,0 +1,26 @@
+ADJP	r ADJP;r JJ;r
+ADVP	r ADVP;r AD;r VP;r
+CLP	r LC;r PRN;r NN;r M;r CLP;r
+CP	r CP;r DEF;r IP;r VP;r
+DNP	r DNP;r DEG;r DEV;r DEC;r NP;r
+DP	l DP;l CLP;l QP;l DT;l DEG;l
+DVP	r DEG;r VP;r DEV;r
+FRAG	r VP;r IP;r VC;r VA;r VV;r NP;r NN;r NT;r NR;r
+INTJ	r INTJ;r IJ;r VP;r
+IP	r IP;r VP;r CP;r VCD;r VRD;r VV;r VA;r UCP;r QP;r PRN;r NP;r
+LCP	r LCP;r LC;r IP;r NP;r CLP;r
+LST	l CLP;l FW,l
+NP	r ETC;r NP;r NN;r NT;r NR;r QP;r PN;r DEG;r UCP;r IP;r DEC;r PRN;r CP;r DP;r CLP;r VP;r ADJP;r
+PP	l PP;l P;l NP;l
+PRN	r UCP;r CP;r ADVP;r VP;r IP;r NP;r NN;r NR;r QP;r
+QP	r QP;r CLP;r CD;r OD;r DP;r NP;r FW;r
+UCP	r ETC;r ADJP;r DEG;r PP;r IP;r UCP;r ADVP;r VP;r NP;r LCP;r QP;r CP;r
+VCD	r VCD;r VV;r VA;r VC;r VE
+VCP	r VCD;r VV;r VA;r VC;r VE
+VNV	r VCD;r VV;r VA;r VC;r VE
+VP	r VP;r VA;r VC;r VE;r VV;r BA;r LB;r VCD;r VSB;r VRD;r VNV;r VCP;r VPT;r IP;r LCP;r PP;r AD;r MSP;r NP;r NN;r PRN;r QP;r CP;r
+VPT	l VNV;l VRD;l VV;l
+VRD	r VRD;r VV;r VA;r VC;r VE;r VP;r
+VSB	r VSB;r VV;r VA;r VC;r VE;r
+WHNP	r WHNP NP NN NT NR QP;r
+WHPP	l WHPP PP P;l
